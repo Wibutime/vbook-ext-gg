@@ -1,4 +1,4 @@
-let BASE_URL = 'https://hentaihvn.su';
+let BASE_URL = 'https://hentaivn.su';
 try {
     if (CONFIG_URL) {
         BASE_URL = CONFIG_URL;

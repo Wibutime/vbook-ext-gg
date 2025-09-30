@@ -2,8 +2,8 @@
   "metadata": {
     "name": "HentaiVN",
     "author": "MainChinhs",
-    "version": 1,
-    "source": "https://hentaihvn.su",
+    "version": 2,
+    "source": "https://hentaivn.su",
     "regexp": "(www.)?hen(tai)?(vn|ayame|hvn).[a-z]+/\\d+-[^/]+.html$",
     "description": "Đọc truyện trên trang HentaiVN",
     "locale": "vi_VN",
