@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "MainChinhs",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "HentaiVN",
+      "author": "MainChinhs",
+      "path": "https://raw.githubusercontent.com/Wibutime/vbook-ext-gg/master/hentaivn/plugin.zip",
+      "version": 1,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://hentaihvn.su",
+      "icon": "https://raw.githubusercontent.com/Wibutime/vbook-ext-gg/master/hentaivn/icon.png",
+      "description": "Đọc truyện trên trang HentaiVN",
+      "tag": "nsfw"
+    }
+  ]
+}
