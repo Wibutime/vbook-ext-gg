@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "author": "MainChinhs",
+    "author": "Wibutime",
     "description": ""
   },
   "data": [
     {
       "name": "HentaiVN",
-      "author": "MainChinhs",
+      "author": "Wibutime",
       "path": "https://raw.githubusercontent.com/Wibutime/vbook-ext-gg/master/hentaivn/plugin.zip",
-      "version": 2.1,
+      "version": 2.2,
       "type": "comic",
       "locale": "vi_VN",
       "source": "https://hentaivn.su",
